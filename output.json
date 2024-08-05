@@ -1,0 +1,119 @@
+{
+  "personal_information": {
+    "name": "Venu Tejaswi Mandagiri",
+    "location": "Chirala, Andhra Pradesh",
+    "phone": "+91-7993735929",
+    "email": "venutejaswim@gmail.com",
+    "linkedin": "https://linkedin.com/in/venutejaswi",
+    "github": "https://github.com/tejaswi-mv"
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "B.Tech in Information Technology",
+      "cgpa": "7.72",
+      "location": "Jalandhar, Punjab",
+      "duration": "Aug 2021 – July 2025"
+    },
+    {
+      "institution": "Sri Gowthami Junior College",
+      "degree": "MPC",
+      "percentage": "96",
+      "location": "Chirala, AP",
+      "duration": "Aug 2019 – May 2021"
+    }
+  ],
+  "relevant_coursework": [
+    "Data Structures",
+    "Software Methodology",
+    "Operating System",
+    "Database Management",
+    "Machine Learning",
+    "User Experience",
+    "Computer Network",
+    "Cloud Computing"
+  ],
+  "work_experience": [
+    {
+      "company": "CodersCave",
+      "role": "Data Analyst",
+      "location": "Coimbatore, Tamil Nadu",
+      "duration": "June 2021 – July 2021",
+      "responsibilities": [
+        "Leveraged Python libraries (NumPy, Pandas, Matplotlib) to perform Exploratory Data Analysis (EDA) on a house price dataset.",
+        "Cleaned and preprocessed data to ensure its accuracy and usability for further analysis.",
+        "Created data visualizations to identify trends, patterns, and relationships within the data.",
+        "Utilized data insights to gain a comprehensive understanding of house pricing factors."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-Time Chat Application",
+      "date": "June 2024",
+      "details": [
+        "Developed a robust, full-stack chat application using MERN, Socket.io, TailwindCSS, and DaisyUI.",
+        "Implemented secure authentication (JWT), real-time messaging, online user status, and efficient state management (Zustand).",
+        "Ensured reliability through comprehensive error handling."
+      ]
+    },
+    {
+      "name": "Portfolio Website",
+      "date": "May 2024",
+      "details": [
+        "Developed a chatbot using Retrieval Augmented Generation (RAG) to answer queries based on PDF documents.",
+        "Used Python, Hugging Face, Langchain, Llama Index, Sentence Transformers for embedding, Llama-2-7b-chat-hf for language generation."
+      ]
+    },
+    {
+      "name": "FilmFuzz A Movie Recommendation Web App",
+      "date": "October 2023",
+      "details": [
+        "Leveraged Scikit-learn’s cosine similarity algorithm to recommend movies based on user input and movie attributes.",
+        "Built a user-friendly web app using Streamlit, enabling interactive movie exploration and recommendations."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Python", "C++", "C", "HTML/CSS", "Dart", "SQL"],
+    "developer_tools": ["VS Code", "Eclipse", "AWS", "Azure", "MySQL", "Tableau"],
+    "technologies_frameworks": ["Linux", "Jenkins", "GitHub", "Flutter", "SonarQube", "Docker"],
+    "monitoring_tools": ["Grafana", "Prometheus"],
+    "libraries": ["Numpy", "Pandas", "Sklearn"]
+  },
+  "achievements_extracurricular": [
+    {
+      "title": "Smart India Internal Hackathon",
+      "position": "Top 5 teams",
+      "date": "November 2023",
+      "details": "Built-in chatbot (Dialogflow) guides users, while SOS feature (Firebase) sends alerts for help. Empowers users and promotes safety."
+    },
+    {
+      "title": "ML Build-a-thon",
+      "position": "First Runner Up",
+      "date": "April 2023",
+      "details": "Cleaned and preprocessed the given dataset and built a model which predicts the employees' productivity."
+    },
+    {
+      "title": "Data Analysis and Visualization Virtual Internship",
+      "organization": "Forage",
+      "date": "April 2023"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "date": "Feb 2024",
+      "details": "Learned about AWS services such as EC2, S3, Lambda and cloud concepts."
+    },
+    {
+      "title": "Oracle Cloud Infrastructure 2024 Foundation Associate",
+      "date": "Jan 2024"
+    },
+    {
+      "title": "Problem Solving - Intermediate",
+      "organization": "Hacker Rank",
+      "date": "Jan 2024"
+    }
+  ]
+}
