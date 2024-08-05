@@ -1,0 +1,21 @@
+I have uploaded a file containing my resume.
+
+Please analyze this resume and perform the following tasks:
+
+- Convert the content into a structured JSON format
+- Include these key sections (if present):
+  * Personal information
+  * Education
+  * Work experience
+  * Skills
+  * Any other relevant categories found in the document
+
+Ensure the JSON output is:
+- Properly formatted
+- Easy to read
+
+If you encounter any issues:
+- Indicate formatting problems
+- Note any unclear sections
+
+Provide the resulting JSON as your response
